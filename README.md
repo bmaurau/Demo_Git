@@ -2,3 +2,5 @@
 Demonstration de Git par OpenClassroom c'est un peu la galere
 
 Maintenant on modifie depuis github (ouais !!)
+
+Et aussi depuis la machine locale
